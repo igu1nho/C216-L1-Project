@@ -1,4 +1,4 @@
-# Projeto prático da disciplina C216-L1(Sistemas Distribúidos)
+# Projeto prático da disciplina C216-L1(Sistemas Distribuídos)
 
 # O Projeto 📈
 O objetivo do projeto é implementar através do Vscode e do Docker um sistema de organização de equipes em um determinado campeonato, ao qual através da implementação e integração entre Back-end(Python), Front-end(Flask) e Banco de Dados(Docker) as informações sobre os competidores são inseridas, atualizadas e excluídas caso necessário. Pode ser utilizada em diferentes campeonatos, desde que, as váriaveis requisitadas sejam compatíveis.
