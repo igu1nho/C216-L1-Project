@@ -1,4 +1,4 @@
-# Projeto prático da disciplina C216-L1(Sistemas Distribuídos)
+# Projeto da disciplina C216-L1(Sistemas Distribuídos) - Sistema de Organização de Equipes de um Campeonato
 
 # O Projeto 📈
 O objetivo do projeto é implementar através do Vscode e do Docker um sistema de organização de equipes, para um determinado campeonato, ao qual através da implementação e integração entre Back-end(Node.js com Restify), Front-end(Flask) e Banco de Dados(PostgreSQL) as informações sobre os competidores são inseridas, atualizadas, excluídas caso necessário e que as partidas serão geradas e mostradas. Pode ser utilizada para diferentes campeonatos, desde que cada equipe tenha 5 integrantes, caso queira utilizar para outros campeonatos é necessário adaptar o código baseando-se na quantidade de jogadores.
