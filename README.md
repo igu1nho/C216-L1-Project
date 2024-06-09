@@ -24,17 +24,17 @@ docker-compose up --build
 
 ## Exemplo de funcionamento 🛠️
 O projeto trabalha com 5 páginas, as quais serão mostradas junto do exemplo utilizado.
-###Terminal
+### Terminal
 ![Terminal](https://i.imgur.com/T5RF6wn.png)
 
-###Home
+### Home
 ![Home](https://i.imgur.com/W2fXNjs.png)
 
-###Inserir um Time
+### Inserir um Time
 ![Inserir um Time](https://i.imgur.com/tp0kjU1.png)
 
-###Lista de Times Participantes
+### Lista de Times Participantes
 ![Listar os Times Participantes](https://i.imgur.com/u5V7hs7.png)
 
-###Mostrar as Partidas
+### Mostrar as Partidas
 ![Mostrar a próxima Pártida](https://i.imgur.com/ehrKmmk.png)
