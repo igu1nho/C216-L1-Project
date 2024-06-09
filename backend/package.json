@@ -1,0 +1,15 @@
+{
+  "name": "projeto-c216",
+  "version": "1.0.0",
+  "description": "Crud com restify.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "restify": "^8.5.1",
+    "pg": "^8.11.5"
+  },
+  "author": "Igor Luiz GEC1523",
+  "license": "ISC"
+}
