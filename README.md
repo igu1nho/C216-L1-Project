@@ -18,9 +18,9 @@ git clone https://github.com/igu1nho/Projeto_Sistemas_Distribuidos
 
 ## Para Executar o Projeto ✅❌
 Digite o comando abaixo no terminal do compilador:
+```bash
 docker-compose up --build
-
-
+```
 
 ## Exemplo de funcionamento 🛠️
 O projeto trabalha com 5 páginas, as quais serão mostradas junto do exemplo utilizado.
