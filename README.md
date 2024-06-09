@@ -24,12 +24,12 @@ docker-compose up --build
 
 ## Exemplo de funcionamento 🛠️
 O projeto trabalha com 5 páginas, as quais serão mostradas junto do exemplo utilizado.
-![Terminal](https://drive.google.com/file/d/1poqtMq539Rb7m1ZUGPmzw6ZLwGwdvEIi/view?usp=drive_link)
+![Terminal](https://i.imgur.com/T5RF6wn.png)
 
-![Home](https://drive.google.com/file/d/1WO8R1y29MWJ6-Keh5WdFrwjZG3hMciBg/view?usp=drive_link)
+![Home](https://i.imgur.com/W2fXNjs.png)
 
-![Inserir um Time](https://drive.google.com/file/d/14xPtpkgszC5c9K7KXSkXJzP-FjsfGDRX/view?usp=drive_link)
+![Inserir um Time](https://i.imgur.com/tp0kjU1.png)
 
-![Listar os Times Participantes](https://drive.google.com/file/d/1ZG4xWEJ2fsTNVQSQBjMfCthfsf1B1Y4r/view?usp=drive_link)
+![Listar os Times Participantes](https://i.imgur.com/u5V7hs7.png)
 
-![Mostrar a próxima Pártida](https://drive.google.com/file/d/1D7UukLmr4S236ggThQR1TUGiNg3FiQKr/view?usp=drive_link)
+![Mostrar a próxima Pártida](https://i.imgur.com/ehrKmmk.png)
